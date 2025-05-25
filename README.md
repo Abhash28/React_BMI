@@ -2,6 +2,10 @@
 
 This is a simple **BMI (Body Mass Index)** calculator built with **React** and styled using **Bootstrap 5**. It allows users to input their height and weight, calculate their BMI, and view a category-based health remark.
 
+## 🌐 Live Demo
+
+👉 [Click here to view the live project](https://react-6dtmfrbj8-abhashs-projects-b82c5672.vercel.app/)
+
 ---
 
 ## 🛠️ Tech Stack
